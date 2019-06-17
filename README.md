@@ -1,5 +1,5 @@
 
-# bike-shop
+# React BikeShop
 =======
 # Boilermaker
 

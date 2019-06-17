@@ -34,7 +34,7 @@
       "git add"
     ]
   },
-  "author": "Fullstack Academy of Code",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.0",
