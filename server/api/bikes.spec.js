@@ -17,8 +17,8 @@ describe('Bike routes', () => {
 
     const newBike = {
       name: 'johnny',
-      description: 'another cooler bike!!!!!!!',
-      price: 100.00,
+      description: 'another cooler bike!!!!!!!!!',
+      price: 120.00,
       inventory: 11,
       availability: 'available',
     }
